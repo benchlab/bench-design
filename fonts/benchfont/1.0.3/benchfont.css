@@ -1,0 +1,268 @@
+@charset "UTF-8";
+
+@font-face {
+  font-family: "benchfont";
+  src:url("benchfont.eot");
+  src:url("benchfont.eot?#iefix") format("embedded-opentype"),
+    url("benchfont.woff") format("woff"),
+    url("benchfont.ttf") format("truetype"),
+    url("benchfont.svg#benchfont") format("svg");
+  font-weight: normal;
+  font-style: normal;
+
+}
+
+[data-icon]:before {
+  font-family: "benchfont" !important;
+  content: attr(data-icon);
+  font-style: normal !important;
+  font-weight: normal !important;
+  font-variant: normal !important;
+  text-transform: none !important;
+  speak: none;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+[class^="bench-"]:before,
+[class*=" bench-"]:before {
+  font-family: "benchfont" !important;
+  font-style: normal !important;
+  font-weight: normal !important;
+  font-variant: normal !important;
+  text-transform: none !important;
+  speak: none;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.bench-abduction:before {
+  content: "\61";
+}
+.bench-alien-2:before {
+  content: "\62";
+}
+.bench-alien-face:before {
+  content: "\63";
+}
+.bench-bench:before {
+  content: "\64";
+}
+.bench-astronaut:before {
+  content: "\65";
+}
+.bench-astronaut-2:before {
+  content: "\66";
+}
+.bench-astronaut-helmet:before {
+  content: "\67";
+}
+.bench-bench-2:before {
+  content: "\68";
+}
+.bench-bench-3:before {
+  content: "\69";
+}
+.bench-benchtrade:before {
+  content: "\6a";
+}
+.bench-comet:before {
+  content: "\6b";
+}
+.bench-constellation:before {
+  content: "\6c";
+}
+.bench-dapps:before {
+  content: "\6d";
+}
+.bench-dbrowser:before {
+  content: "\6e";
+}
+.bench-dmail:before {
+  content: "\6f";
+}
+.bench-dmemo:before {
+  content: "\70";
+}
+.bench-dmemo-2:before {
+  content: "\71";
+}
+.bench-dmusic:before {
+  content: "\72";
+}
+.bench-docchain:before {
+  content: "\73";
+}
+.bench-dpages:before {
+  content: "\74";
+}
+.bench-dpages-2:before {
+  content: "\75";
+}
+.bench-dread:before {
+  content: "\76";
+}
+.bench-dshop:before {
+  content: "\77";
+}
+.bench-dvideo:before {
+  content: "\78";
+}
+.bench-earth:before {
+  content: "\4a";
+}
+.bench-flag-on-moon:before {
+  content: "\4b";
+}
+.bench-galaxy:before {
+  content: "\4e";
+}
+.bench-globe:before {
+  content: "\4f";
+}
+.bench-half-moon:before {
+  content: "\52";
+}
+.bench-looking-telescope:before {
+  content: "\53";
+}
+.bench-mailchain:before {
+  content: "\54";
+}
+.bench-mailchain-2:before {
+  content: "\55";
+}
+.bench-man-setting-flag:before {
+  content: "\56";
+}
+.bench-man-with-flag:before {
+  content: "\57";
+}
+.bench-measurement:before {
+  content: "\58";
+}
+.bench-moon:before {
+  content: "\59";
+}
+.bench-moon-and-stars:before {
+  content: "\5a";
+}
+.bench-moon-orbitting:before {
+  content: "\30";
+}
+.bench-musicchain:before {
+  content: "\31";
+}
+.bench-musicchain2:before {
+  content: "\32";
+}
+.bench-new-moon:before {
+  content: "\33";
+}
+.bench-orbit:before {
+  content: "\34";
+}
+.bench-planet:before {
+  content: "\35";
+}
+.bench-planet-2:before {
+  content: "\36";
+}
+.bench-planets-orbitting:before {
+  content: "\37";
+}
+.bench-readchain:before {
+  content: "\38";
+}
+.bench-robot:before {
+  content: "\39";
+}
+.bench-robot-2:before {
+  content: "\21";
+}
+.bench-rocket:before {
+  content: "\22";
+}
+.bench-rocket-2:before {
+  content: "\23";
+}
+.bench-rocket-launched:before {
+  content: "\24";
+}
+.bench-satellite:before {
+  content: "\25";
+}
+.bench-satellite-2:before {
+  content: "\26";
+}
+.bench-saturn:before {
+  content: "\27";
+}
+.bench-sharechain:before {
+  content: "\28";
+}
+.bench-shopchain:before {
+  content: "\29";
+}
+.bench-solar-system:before {
+  content: "\2a";
+}
+.bench-space-gun:before {
+  content: "\2b";
+}
+.bench-space-rocket:before {
+  content: "\2c";
+}
+.bench-space-shuttle:before {
+  content: "\2d";
+}
+.bench-space-shuttle-2:before {
+  content: "\2e";
+}
+.bench-space-shuttle-3:before {
+  content: "\2f";
+}
+.bench-space-vehicle:before {
+  content: "\3a";
+}
+.bench-star:before {
+  content: "\3b";
+}
+.bench-star-falling:before {
+  content: "\3c";
+}
+.bench-star-orbitting-earth:before {
+  content: "\3d";
+}
+.bench-stars:before {
+  content: "\3e";
+}
+.bench-stars-2:before {
+  content: "\3f";
+}
+.bench-sun:before {
+  content: "\40";
+}
+.bench-sun-and-planets:before {
+  content: "\5b";
+}
+.bench-telescope:before {
+  content: "\5d";
+}
+.bench-telescope-1:before {
+  content: "\5e";
+}
+.bench-two-satellites:before {
+  content: "\5f";
+}
+.bench-videochain:before {
+  content: "\60";
+}
+.bench-weapon:before {
+  content: "\7b";
+}
+.bench-x:before {
+  content: "\7c";
+}
