@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.2 (51160) - http://www.bohemiancoding.com/sketch -->
+    <title>mailchain</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="mailchain" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Page-1" transform="translate(2.000000, 0.000000)" fill="#4A4A4A">
+            <polygon id="Fill-1" points="12.8219178 10.6627846 12.8219178 24 19.2876712 17.6219281 19.2876712 4.16438356"></polygon>
+            <polygon id="Fill-2" points="0.109589041 17.6216164 6.57534247 24 6.57534247 10.6624729 0.109589041 4.16438356"></polygon>
+            <polygon id="Fill-3" points="0 0 0.0854782913 9.15608519 9.62285902 18.739726 14.1369863 14.2049405"></polygon>
+            <polygon id="Fill-4" points="19.2876712 0 5.15068493 14.2049405 9.66440064 18.739726 19.2018829 9.15608519"></polygon>
+        </g>
+    </g>
+</svg>

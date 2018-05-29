@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.2 (51160) - http://www.bohemiancoding.com/sketch -->
+    <title>readchain</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="0 0 22.3140243 0 22.3140243 16.9437114 0 16.9437114"></polygon>
+    </defs>
+    <g id="readchain" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Page-1" transform="translate(1.684211, 0.000000)">
+            <g id="Group-3">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <g id="Clip-2"></g>
+                <path d="M13.8528878,0 L-2.449805e-05,0 L-2.449805e-05,5.39639889 L13.8528878,5.39639889 C15.546438,5.39639889 16.9244533,6.77591468 16.9244533,8.47161039 C16.9244533,10.1675514 15.546438,11.5473125 13.8528878,11.5473125 L-2.449805e-05,11.5473125 L-2.449805e-05,16.9437114 L13.8528878,16.9437114 C18.5182965,16.9437114 22.3140243,13.1431748 22.3140243,8.47161039 C22.3140243,3.80029127 18.5182965,0 13.8528878,0" id="Fill-1" fill="#4A4A4A" mask="url(#mask-2)"></path>
+            </g>
+            <polygon id="Fill-4" fill="#4A4A4A" points="7.64807966 5.47368421 0 5.47368421 13.476688 24 21.6842105 24"></polygon>
+        </g>
+    </g>
+</svg>

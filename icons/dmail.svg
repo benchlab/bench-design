@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.2 (51160) - http://www.bohemiancoding.com/sketch -->
+    <title>dmail</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="6.2721133 0.0451164152 3.16751232 6.03302256 0.0632364532 12.018575 0.0622610837 12.0216529 3.16930049 18.0153529 6.27162562 24 6.27373892 23.9996379 9.37801478 18.0133613 6.2721133 12.0221961 9.37492611 6.03066882"></polygon>
+        <polygon id="path-3" points="0.0128055077 0.045865932 3.06996041 5.95801843 3.07188124 5.95748226 10.1619707 5.95480142 13.2189656 0.0440787033"></polygon>
+        <polygon id="path-5" points="0.0137659208 5.87796942 13.2184854 5.88347875 10.1637315 0.00911050605 3.07028055 0.00129081092"></polygon>
+        <polygon id="path-7" points="0.000156356936 6.03428995 2.98626112 12.0231014 0 18.0088348 2.98422848 23.9943872 5.96986417 18.0073864 8.95409266 12.0221961 5.97017689 6.03773003 5.96955146 6.03628158 2.98329034 0.0469269819"></polygon>
+    </defs>
+    <g id="dmail" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Page-1" transform="translate(11.500000, 12.000000) rotate(90.000000) translate(-11.500000, -12.000000) translate(1.500000, -0.500000)">
+            <g id="Group-3" transform="translate(9.857143, 0.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <g id="Clip-2"></g>
+                <polygon id="Fill-1" fill="#4A4A4A" mask="url(#mask-2)" points="6.2721133 0.0451164152 3.16751232 6.03302256 0.0632364532 12.018575 0.0622610837 12.0216529 3.16930049 18.0153529 6.27162562 24 6.27373892 23.9996379 9.37801478 18.0133613 6.2721133 12.0221961 9.37492611 6.03066882"></polygon>
+            </g>
+            <g id="Group-6" transform="translate(3.000000, 0.000000)">
+                <mask id="mask-4" fill="white">
+                    <use xlink:href="#path-3"></use>
+                </mask>
+                <g id="Clip-5"></g>
+                <polygon id="Fill-4" fill="#4A4A4A" mask="url(#mask-4)" points="0.0128055077 0.045865932 3.06996041 5.95801843 3.07188124 5.95748226 10.1619707 5.95480142 13.2189656 0.0440787033"></polygon>
+            </g>
+            <g id="Group-9" transform="translate(3.000000, 18.000000)">
+                <mask id="mask-6" fill="white">
+                    <use xlink:href="#path-5"></use>
+                </mask>
+                <g id="Clip-8"></g>
+                <polygon id="Fill-7" fill="#4A4A4A" mask="url(#mask-6)" points="0.0137659208 5.87796942 13.2184854 5.88347875 10.1637315 0.00911050605 3.07028055 0.00129081092"></polygon>
+            </g>
+            <g id="Group-12">
+                <mask id="mask-8" fill="white">
+                    <use xlink:href="#path-7"></use>
+                </mask>
+                <g id="Clip-11"></g>
+                <polygon id="Fill-10" fill="#4A4A4A" mask="url(#mask-8)" points="0.000156356936 6.03428995 2.98626112 12.0231014 0 18.0088348 2.98422848 23.9943872 5.96986417 18.0073864 8.95409266 12.0221961 5.97017689 6.03773003 2.98329034 0.0469269819"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>
