@@ -86,4 +86,4 @@ You should find the following in this folder:
 |<img src="../../../icons/two-satellites.svg" width="20" height="20" alt="bench-abduction"/>|bench-two-satellites|}|Two Satellites Icon|
 |<img src="../../../icons/videochain.svg" width="20" height="20" alt="bench-abduction"/>|bench-videochain|:|VideoChain Logo Icon|
 |<img src="../../../icons/weapon.svg" width="20" height="20" alt="bench-abduction"/>|bench-weapon|/|Weapon Icon|
-|<img src="../../../icons/x.svg" width="20" height="20" alt="bench-abduction"/>|bench-x|\|X App Logo Icon|
+|<img src="../../../icons/x.svg" width="20" height="20" alt="bench-abduction"/>|bench-x|)|X App Logo Icon|
