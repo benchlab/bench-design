@@ -42,7 +42,7 @@ You should find the following in this folder:
 |<img src="../../../icons/half-moon.svg" width="20" height="20" alt="bench-abduction"/>|bench-half-moon|B|Half Moon Icon|
 |<img src="../../../icons/looking-telescope.svg" width="20" height="20" alt="bench-abduction"/>|bench-looking-telescope|C|Looking Out A Telescope Icon|
 |<img src="../../../icons/mailchain.svg" width="20" height="20" alt="bench-abduction"/>|bench-mailchain|D|MailChain Logo Icon|
-|<img src="../../../icons/mailchain-2.svg" width="20" height="20" alt="bench-abduction"/>|bench-mailchain2|E|MailChain Logo 2 Icon|
+|<img src="../../../icons/mailchain2.svg" width="20" height="20" alt="bench-abduction"/>|bench-mailchain2|E|MailChain Logo 2 Icon|
 |<img src="../../../icons/man-setting-flag.svg" width="20" height="20" alt="bench-abduction"/>|bench-man-setting-flag|F|Man Setting Flag Icon|
 |<img src="../../../icons/man-with-flag.svg" width="20" height="20" alt="bench-abduction"/>|bench-man-with-flag|G|Man With Flag Icon|
 |<img src="../../../icons/measurement.svg" width="20" height="20" alt="bench-abduction"/>|bench-measurement|H|Measurement Icon|
