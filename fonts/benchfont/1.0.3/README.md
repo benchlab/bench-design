@@ -17,7 +17,7 @@ You should find the following in this folder:
 |<img src="../../../icons/alien-face.svg" width="20" height="20" alt="bench-abduction"/>|bench-alient-face|c|Alien Face Icon|
 |<img src="../../../icons/bench-2.svg" width="20" height="20" alt="bench"/>|bench|d|Bench Logo Icon|
 |<img src="../../../icons/astronaut.svg" width="20" height="20" alt="bench-astronaut"/>|bench-astronaut|e|Astronaut Icon|
-|<img src="../../../icons/astronaut-2.svg" width="20" height="20" alt="bench-abduction"/>|bench-astronaut-2|f|Astronaut 2 Icon|
+|<img src="../../../icons/astronaut2.svg" width="20" height="20" alt="bench-abduction"/>|bench-astronaut-2|f|Astronaut 2 Icon|
 |<img src="../../../icons/astronaut-helment.svg" width="20" height="20" alt="bench-abduction"/>|bench-astronaut-helmet|g|Astronaut Helmet Icon|
 |<img src="../../../icons/bench-6.svg" width="20" height="20" alt="bench-2"/>|bench-2|h|Bench Logo 2 Icon|
 |<img src="../../../icons/bench-7.svg" width="20" height="20" alt="bench-3"/>|bench-3|i|Bench Logo 3 Icon|
